@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Romile';
+    src: local('Romile Regular'), local('Romile-Regular'),
+        url('Romile-Regular.woff2') format('woff2'),
+        url('Romile-Regular.woff') format('woff'),
+        url('Romile-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
